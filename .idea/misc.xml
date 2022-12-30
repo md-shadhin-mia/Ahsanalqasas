@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Shadhin/AndroidStudioProjects/Ahsanalqasas/app/src/main/res/drawable/ic_ahsanalqasasi_logo.xml" value="0.218" />
+        <entry key="..\:/Users/Shadhin/AndroidStudioProjects/Ahsanalqasas/app/src/main/res/drawable/ic_baseline_skip_previous_24.xml" value="0.1335" />
+        <entry key="..\:/Users/Shadhin/AndroidStudioProjects/Ahsanalqasas/app/src/main/res/drawable/ic_play_pause_toggle.xml" value="0.1885" />
+        <entry key="..\:/Users/Shadhin/AndroidStudioProjects/Ahsanalqasas/app/src/main/res/font/uthmatic_end.xml" value="0.16631038905515177" />
+        <entry key="..\:/Users/Shadhin/AndroidStudioProjects/Ahsanalqasas/app/src/main/res/layout-v28/activity_main.xml" value="0.14114583333333333" />
+        <entry key="..\:/Users/Shadhin/AndroidStudioProjects/Ahsanalqasas/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Shadhin/AndroidStudioProjects/Ahsanalqasas/app/src/main/res/layout/activity_quran_story.xml" value="0.22402736212056434" />
+        <entry key="..\:/Users/Shadhin/AndroidStudioProjects/Ahsanalqasas/app/src/main/res/layout/activity_tafsir.xml" value="0.1" />
+        <entry key="..\:/Users/Shadhin/AndroidStudioProjects/Ahsanalqasas/app/src/main/res/layout/content_tafshir.xml" value="0.22402736212056434" />
+        <entry key="..\:/Users/Shadhin/AndroidStudioProjects/Ahsanalqasas/app/src/main/res/layout/layout.xml" value="0.211306765523633" />
+        <entry key="..\:/Users/Shadhin/AndroidStudioProjects/Ahsanalqasas/app/src/main/res/layout/sigle_view.xml" value="0.1" />
+        <entry key="..\:/Users/Shadhin/AndroidStudioProjects/Ahsanalqasas/app/src/main/res/layout/story_list_item.xml" value="0.15904232578024796" />
+        <entry key="..\:/Users/Shadhin/AndroidStudioProjects/Ahsanalqasas/app/src/main/res/menu/nav_tafsir_menu.xml" value="0.33" />
+        <entry key="..\:/Users/Shadhin/AndroidStudioProjects/Ahsanalqasas/app/src/main/res/menu/tafshir.xml" value="0.22402736212056434" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
